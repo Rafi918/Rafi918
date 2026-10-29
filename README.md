@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Rafi 👋
 
-<!--
-**Rafi918/Rafi918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Telegram AI bot developer & builder from Iraq 🇮🇶**
 
-Here are some ideas to get you started:
+I build AI-powered Telegram bots, Minecraft Bedrock systems, and web experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤖 Flagship: **tg-ultimate-agent** — a full AI agent inside Telegram (@e0h_bot)
+- 🎮 **UHC Bedrock** — Minecraft Ultra Hardcore system with anti-cheat & Arabic support
+- 🖥️ **Rafi OS** — a Windows-inspired personal desktop on the web
+- 🌐 Full-stack academic portfolio sites (TypeScript / React / Drizzle)
+
+### Tools I use
+Python · JavaScript · TypeScript · Node.js · Telegram Bot API · Modal · Firebase · Docker
+
+### Featured projects
+- [uhc-bedrock](https://github.com/Rafi918/uhc-bedrock) — Minecraft Bedrock UHC system
+- [web](https://github.com/Rafi918/web) — Rafi OS, a desktop on the web
+- [raad](https://github.com/Rafi918/raad) — academic portfolio website
+
+📫 Telegram: @X_HXB
