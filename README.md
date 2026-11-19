@@ -1,8 +1,8 @@
-# Hi, I'm Rafi 👋
+# Rafi Raad (رافي رعد) — المبرمج رافي / DEV RAFI
 
-**Telegram bot developer & builder from Iraq 🇮🇶**
+**Rafi Raad (رافي رعد), known as «المبرمج رافي» (Al-Mubarmij Rafi — “the programmer Rafi”) and DEV RAFI, is a developer and programmer from Baghdad, Iraq.** He builds web interfaces and systems, AI-powered Telegram and Discord bots, and free in-browser tools.
 
-🌐 Website: [dev-rafi.me](https://dev-rafi.me) · 💬 Telegram: [@X_HXB](https://t.me/X_HXB)
+🌐 Website: [dev-rafi.me](https://dev-rafi.me) · 👤 About: [dev-rafi.me/about](https://dev-rafi.me/about/) · 💬 Telegram: [@X_HXB](https://t.me/X_HXB)
 
 ## 🤖 My bots
 
